@@ -4,7 +4,7 @@ To execute this code, follow these steps:
 
 Ensure that the necessary libraries and packages are installed in your Python environment. Import required libraries.
 
-The program takes a filename as input and uses the built-in csv module to read the contents of the file.
+The program takes a filename as input and uses the built-in csv (rt_reviews.csv) module to read the contents of the file.
 
 Import the necessary libraries at the beginning of the script and use the code given in notebook on this link - 
 
